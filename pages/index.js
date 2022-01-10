@@ -3,7 +3,7 @@ import Loading from "../components/Loading";
 const Index = () => {
   return (
     <div>
-      <Loading />
+      <button>login</button>
     </div>
   );
 };
